@@ -1,4 +1,4 @@
-package com.zisal.springfeignrestclient;
+package com.funsoft.feignrestclient;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
